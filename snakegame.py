@@ -1,29 +1,3 @@
-#Name: Tariq Wright
-#COMP112-03
-#Final Project
-
-
-
-"""
-Goals
-
-1. Flow Control- a while true loop is used for the main game loop; if statements are used to determine high score and whether the snake eats food as well as to determine if the time limit is reached in timed mode.
-2. Functions - functions were used to keep track of score, detect collisions as well as move the snake
-3. Turtle - I used turtle to design the game interface. Turtle was used to design the screen, the snake body and things such as the poison and the food.
-
-What have I learnt?
-
-I learnt a lot about python from this class. I learnt about things such as functions, dictionarries and lists which were completely new to me.
-
-How Completing Goals Show Mastery of Python?
-
-The fact that I was able to use the goals to program a game shows that I'm able to apply python skills learnt in class to real life. The familiariaty of python that I have gained will greatly assist me in my pursuit of higher knowledge in Computer Science. The goals used will definitely be an asset in my  CS future."
-"""
-
-
-
-
-
 import turtle
 import time
 import random
